@@ -32,16 +32,6 @@ We aim to make technology accessible and impactful by delivering tailored soluti
 
 ---
 
-### 🌐 Find Us Online
-
-- Website: [4MLabs.io](https://4mlabs.io)
-- Medium: [4M Labs Medium](https://medium.com/@4mlabs)
-- LinkedIn: [4M Labs](https://www.linkedin.com/company/4m-labs)
-- Twitter: [@4MLabsTech](https://twitter.com/4MLabsTech)
-- Email: [contact@4mlabs.io](mailto:contact@4mlabs.io)
-
----
-
 #### 📝 License
 
 All our OSS projects are under the **MIT License**, ensuring open and free development for everyone.  
